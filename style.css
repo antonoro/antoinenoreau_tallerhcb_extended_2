@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2vw;
+}
+
+#headerline {
+    min-height: 30vh;
+
+    background-color: #65676B;
+}
+
+#centerline {
+    min-height: 40vh;
+    background-color: lightblue;
+}
+
+#bottomline {
+    min-height: 30vh;
+    background-color:  #65676B;
+}
+
+h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-left: 1em;
+    font-size: 2vw;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2vw;
+}
+
